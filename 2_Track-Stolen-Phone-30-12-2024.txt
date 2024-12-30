@@ -1,0 +1,4 @@
+1. Search for: find my device
+2. Turn on the location in the security section of the android
+3. Click: Find My Device (Find My Device makes it easy to locate, ring, or wipe your device from the web)
+

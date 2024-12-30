@@ -1,0 +1,10 @@
+1. Use strong password eg. Janedoe@2024
+1.1 go to: myaccount.google.com/security
+1.2 To change you password, click password
+
+2. Under the Security section 
+2.1 Go to: Your devices 
+2.2 remove the ones that you no longer using
+3. Check third party app access
+4. Turn on two factor authentication
+5. Enroll in: Google Advance Protection Programme
